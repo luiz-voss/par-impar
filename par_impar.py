@@ -10,7 +10,4 @@ while True:
         else:
             print("Número digitado IMPAR")
     except:
-        print("Digite apenas números por favor")
-
-
-
+        print("Digite apenas números por favor!!! :) ")
